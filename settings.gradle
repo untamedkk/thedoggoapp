@@ -1,0 +1,3 @@
+include ':doogo_search'
+include ':app'
+rootProject.name = "The Doggo App"

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Doggo App</string>
+    <string name="search_bar_hint">Type here…</string>
+    <string name="open_image_activity">Show Images</string>
+</resources>
